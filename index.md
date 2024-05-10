@@ -36,3 +36,6 @@ desktop/desktop#3602
 - [x] Second task
 - [ ] Third task
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
